@@ -8,7 +8,7 @@ import Footer from './Component/footer'
 
 function App() {
     return (
-        <Box className="mb-10">
+        <Box className="mb-10 w-[100%]">
             <Navbar />
             <BannerCard />
             <Box className="gradient flex flex-col items-center mb-10">
